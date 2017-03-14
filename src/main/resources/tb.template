@@ -1,0 +1,1 @@
+com.asking.template.tb.ProductTemplate={"productName":["//div[@class='sku-name']/allText()"],"category":["//div[@class='crumb-wrap']/allText()"],"description":["//div[@class='p-parameter']/allText()"]}
